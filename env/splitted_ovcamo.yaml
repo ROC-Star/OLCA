@@ -1,0 +1,12 @@
+# 训练集配置
+OVCamo_TR_IMAGE_DIR: "/home/ycd/mycode/yan1/OVCamo-main/ovcamo/dataset/train/image"
+OVCamo_TR_MASK_DIR: "/home/ycd/mycode/yan1/OVCamo-main/ovcamo/dataset/train/mask"
+OVCamo_TR_DEPTH_DIR: "/home/ycd/mycode/yan1/OVCamo-main/ovcamo/dataset/train/depth"
+
+# 测试集配置
+OVCamo_TE_IMAGE_DIR: "/home/ycd/mycode/yan1/OVCamo-main/ovcamo/dataset/test/image"
+OVCamo_TE_MASK_DIR: "/home/ycd/mycode/yan1/OVCamo-main/ovcamo/dataset/test/mask"
+
+# 元数据文件路径
+OVCamo_CLASS_JSON_PATH: "/home/ycd/mycode/yan1/OVCamo-main/ovcamo/dataset/class_info.json"
+OVCamo_SAMPLE_JSON_PATH: "/home/ycd/mycode/yan1/OVCamo-main/ovcamo/dataset/sample_info.json"
