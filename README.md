@@ -6,6 +6,7 @@ The paper is currently under review. If the paper is accepted, we will open the 
 ```bash
 python main.py 
 ```
+The train_log file is log_.txt
 
 ## Evaluate
 
